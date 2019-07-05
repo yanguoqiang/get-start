@@ -1,1 +1,1 @@
-Git command
+github study.
